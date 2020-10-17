@@ -6,9 +6,9 @@ excerpt: Hello there, I'm student of computer engineering from Ukraine, living i
 comments: false
 ---
 
-I'm a student from Ukraine, living in Kyiv.
+Hello there, I'm a student from Ukraine, living in Kyiv.
 
-##### may u needs ✨
+##### if u needs ✨
 
 - {{ site.author.email }}
 - github.com/{{ site.author.username }}
