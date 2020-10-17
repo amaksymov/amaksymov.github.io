@@ -11,3 +11,8 @@ ___"Психологический смысл фильма Револьвер. �
 questions. So now I want to describe it.
 
 Here I will describe short thoughts, maybe a list of questions or steps, links to interesting materials about this topic. __Soon…__
+
+### Links:
+- Revolver by Guy Ritchie.
+- [How do I find the right direction of self improvement?](https://www.quora.com/How-do-I-find-the-right-direction-of-self-improvement) from [Quora](https://www.quora.com/)
+
