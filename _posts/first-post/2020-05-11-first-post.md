@@ -59,6 +59,6 @@ Go [netlify](https://netlify.com) dashboard, and following this step.
 2. then choose your repository where is the jekyll sources uploaded.
 3. netlify smart enough to configuring, we just need's are hosting's are hosting's are hosting's are hosting to click `Deploy site button`.
 
-Wait for moment, and voila..! your site's are hosting and using `.netlify.com` tld, if your website wants to look professional, just buy a domain from your favorite domain store. or if you the first time, I advice using namecheap.com*(isn't sponsor)* \*based on my experienced it provides good service and have various TLDs.
+Wait for moment, and voilà..! your site's are hosting and using `.netlify.com` tld, if your website wants to look professional, just buy a domain from your favorite domain store. or if you the first time, I advice using namecheap.com*(isn't sponsor)* \*based on my experienced it provides good service and have various TLDs.
 
-So, what you waiting for, just create your own website for free.
+So, what you waiting for, just create your own website free.
