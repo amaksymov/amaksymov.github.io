@@ -4,3 +4,6 @@ _site/
 .jekyll-metadata
 _drafts
 Gemfile.lock
+
+# JetBrains
+.idea/
