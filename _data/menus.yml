@@ -1,0 +1,11 @@
+- title: home
+  url: /
+  external: false
+
+- title: about
+  url: /about/
+  external: false
+
+- title: github
+  url: https://github.com/amaksymov
+  external: true
